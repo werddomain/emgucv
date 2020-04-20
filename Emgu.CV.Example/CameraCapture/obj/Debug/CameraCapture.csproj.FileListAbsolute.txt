@@ -1,0 +1,4 @@
+D:\emgucv\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.csprojAssemblyReference.cache
+D:\emgucv\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.CameraCapture.resources
+D:\emgucv\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+D:\emgucv\Emgu.CV.Example\CameraCapture\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache

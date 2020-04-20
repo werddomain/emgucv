@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\emgucv\\Emgu.CV.Example\\XamarinForms\\iOS\\Emgu.CV.XamarinForms.iOS.csproj": {}
+  },
+  "projects": {
+    "D:\\emgucv\\Emgu.CV.Example\\XamarinForms\\iOS\\Emgu.CV.XamarinForms.iOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\emgucv\\Emgu.CV.Example\\XamarinForms\\iOS\\Emgu.CV.XamarinForms.iOS.csproj",
+        "projectName": "Emgu.CV.XamarinForms.iOS",
+        "projectPath": "D:\\emgucv\\Emgu.CV.Example\\XamarinForms\\iOS\\Emgu.CV.XamarinForms.iOS.csproj",
+        "packagesPath": "C:\\Users\\clefw\\.nuget\\packages\\",
+        "outputPath": "D:\\emgucv\\Emgu.CV.Example\\XamarinForms\\iOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "D:\\emgucv\\NuGet.Config",
+          "C:\\Users\\clefw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\CompuSport\\NuGet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {
+          "dependencies": {
+            "Xam.Plugin.Media": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.5.0.617, )"
+            },
+            "Xamarin.Plugin.FilePicker": {
+              "target": "Package",
+              "version": "[2.1.34, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

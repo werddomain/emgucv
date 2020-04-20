@@ -1,0 +1,4 @@
+D:\emgucv\NetCore_Console\NetCore_Console\bin\Debug\netcoreapp3.1\NetCore_Console.exe
+D:\emgucv\NetCore_Console\NetCore_Console\obj\Debug\netcoreapp3.1\NetCore_Console.csprojAssemblyReference.cache
+D:\emgucv\NetCore_Console\NetCore_Console\obj\Debug\netcoreapp3.1\NetCore_Console.AssemblyInfoInputs.cache
+D:\emgucv\NetCore_Console\NetCore_Console\obj\Debug\netcoreapp3.1\NetCore_Console.AssemblyInfo.cs

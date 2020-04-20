@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "15098MK/tTgUKTLhEY0cwcLYk1xaik3aGtZ2amF8WvCtGrMzazV+ubSJ/+xbOn+TgrIO/WsVhK0i/OE6/WL8Aw==",
+  "success": true,
+  "projectFilePath": "D:\\emgucv\\Emgu.CV.Example\\XamarinForms\\WPF\\XamarinForms.WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clefw\\.nuget\\packages\\opentk\\3.0.1\\opentk.3.0.1.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\opentk.glcontrol\\3.0.1\\opentk.glcontrol.3.0.1.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\xamarin.forms\\4.5.0.617\\xamarin.forms.4.5.0.617.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\xamarin.forms.platform.wpf\\4.5.0.617\\xamarin.forms.platform.wpf.4.5.0.617.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\xamarin.plugin.filepicker\\2.1.34\\xamarin.plugin.filepicker.2.1.34.nupkg.sha512"
+  ],
+  "logs": []
+}

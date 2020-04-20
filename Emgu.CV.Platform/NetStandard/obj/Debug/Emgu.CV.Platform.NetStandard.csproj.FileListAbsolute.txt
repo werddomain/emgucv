@@ -1,0 +1,4 @@
+D:\emgucv\Emgu.CV.Platform\NetStandard\obj\Debug\Emgu.CV.Platform.NetStandard.csprojAssemblyReference.cache
+D:\emgucv\Emgu.CV.Platform\NetStandard\obj\Debug\Emgu.CV.Platform.NetStandard.csproj.CoreCompileInputs.cache
+D:\emgucv\Emgu.CV.Platform\NetStandard\obj\Debug\Emgu.CV.Platform.NetStandard.AssemblyInfoInputs.cache
+D:\emgucv\Emgu.CV.Platform\NetStandard\obj\Debug\Emgu.CV.Platform.NetStandard.AssemblyInfo.cs

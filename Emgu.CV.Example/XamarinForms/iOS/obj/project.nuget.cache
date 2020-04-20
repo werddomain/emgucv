@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPNXVH8U9FbUoM1GVnh3sQZoOd/22OCjkGq2SWiqPrAVihOM/efXiDMtst+rYchzWirufF7FB+v54Cx5Bj2myQ==",
+  "success": true,
+  "projectFilePath": "D:\\emgucv\\Emgu.CV.Example\\XamarinForms\\iOS\\Emgu.CV.XamarinForms.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clefw\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\xamarin.forms\\4.5.0.617\\xamarin.forms.4.5.0.617.nupkg.sha512",
+    "C:\\Users\\clefw\\.nuget\\packages\\xamarin.plugin.filepicker\\2.1.34\\xamarin.plugin.filepicker.2.1.34.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xhto59MsjfLcA9w6b4SaoF03SjUNvbwQBQcShWokYjpVRFD4Owle11sySGJUBHYDim0YCMakp/AOwexcEDpDhA==",
+  "success": true,
+  "projectFilePath": "D:\\emgucv\\NetCore_Console\\NetCore_Console\\NetCore_Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clefw\\.nuget\\packages\\emgu.cv\\4.2.0.3662\\emgu.cv.4.2.0.3662.nupkg.sha512"
+  ],
+  "logs": []
+}

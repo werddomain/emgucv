@@ -1,0 +1,4 @@
+D:\emgucv\Emgu.CV.Test\Emgu.CV.Test.Netcore\obj\Debug\netcoreapp3.0\Emgu.CV.Test.Netcore.csprojAssemblyReference.cache
+D:\emgucv\Emgu.CV.Test\Emgu.CV.Test.Netcore\obj\Debug\netcoreapp3.0\Emgu.CV.Test.Netcore.csproj.CoreCompileInputs.cache
+D:\emgucv\Emgu.CV.Test\Emgu.CV.Test.Netcore\obj\Debug\netcoreapp3.0\Emgu.CV.Test.Netcore.AssemblyInfoInputs.cache
+D:\emgucv\Emgu.CV.Test\Emgu.CV.Test.Netcore\obj\Debug\netcoreapp3.0\Emgu.CV.Test.Netcore.AssemblyInfo.cs
