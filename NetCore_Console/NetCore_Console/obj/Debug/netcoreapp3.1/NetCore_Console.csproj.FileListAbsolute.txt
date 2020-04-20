@@ -2,3 +2,14 @@ D:\emgucv\NetCore_Console\NetCore_Console\bin\Debug\netcoreapp3.1\NetCore_Consol
 D:\emgucv\NetCore_Console\NetCore_Console\obj\Debug\netcoreapp3.1\NetCore_Console.csprojAssemblyReference.cache
 D:\emgucv\NetCore_Console\NetCore_Console\obj\Debug\netcoreapp3.1\NetCore_Console.AssemblyInfoInputs.cache
 D:\emgucv\NetCore_Console\NetCore_Console\obj\Debug\netcoreapp3.1\NetCore_Console.AssemblyInfo.cs
+D:\emgucv\NetCore_Console\NetCore_Console\bin\Debug\netcoreapp3.1\NetCore_Console.deps.json
+D:\emgucv\NetCore_Console\NetCore_Console\bin\Debug\netcoreapp3.1\NetCore_Console.runtimeconfig.json
+D:\emgucv\NetCore_Console\NetCore_Console\bin\Debug\netcoreapp3.1\NetCore_Console.runtimeconfig.dev.json
+D:\emgucv\NetCore_Console\NetCore_Console\bin\Debug\netcoreapp3.1\NetCore_Console.dll
+D:\emgucv\NetCore_Console\NetCore_Console\bin\Debug\netcoreapp3.1\NetCore_Console.pdb
+D:\emgucv\NetCore_Console\NetCore_Console\bin\Debug\netcoreapp3.1\Emgu.CV.World.NetStandard.dll
+D:\emgucv\NetCore_Console\NetCore_Console\obj\Debug\netcoreapp3.1\NetCore_Console.csproj.CoreCompileInputs.cache
+D:\emgucv\NetCore_Console\NetCore_Console\obj\Debug\netcoreapp3.1\NetCore_Console.csproj.CopyComplete
+D:\emgucv\NetCore_Console\NetCore_Console\obj\Debug\netcoreapp3.1\NetCore_Console.dll
+D:\emgucv\NetCore_Console\NetCore_Console\obj\Debug\netcoreapp3.1\NetCore_Console.pdb
+D:\emgucv\NetCore_Console\NetCore_Console\obj\Debug\netcoreapp3.1\NetCore_Console.genruntimeconfig.cache

@@ -5,7 +5,17 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore_Console", "NetCore_Console\NetCore_Console.csproj", "{ABE93EB3-23B8-4CA8-B2AE-8A7463B0149A}"
 EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Emgu.CV.Runtime.Windows", "..\Emgu.CV.Runtime\Windows\Emgu.CV.Runtime.Windows.shproj", "{ADC3C8E5-EBCD-4D3C-B3A4-20CFE0E42FC1}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Emgu.CV.Runtime.Raspbian", "..\Emgu.CV.Runtime\Raspbian\Emgu.CV.Runtime.Raspbian.shproj", "{47CF52B9-AB6D-4BF6-A791-1AC4D2CCD140}"
+EndProject
 Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\Emgu.CV.Runtime\Raspbian\Emgu.CV.Runtime.Raspbian.projitems*{47cf52b9-ab6d-4bf6-a791-1ac4d2ccd140}*SharedItemsImports = 13
+		..\Emgu.CV.Runtime\Raspbian\Emgu.CV.Runtime.Raspbian.projitems*{abe93eb3-23b8-4ca8-b2ae-8a7463b0149a}*SharedItemsImports = 5
+		..\Emgu.CV.Runtime\Windows\Emgu.CV.Runtime.Windows.projitems*{abe93eb3-23b8-4ca8-b2ae-8a7463b0149a}*SharedItemsImports = 5
+		..\Emgu.CV.Runtime\Windows\Emgu.CV.Runtime.Windows.projitems*{adc3c8e5-ebcd-4d3c-b3a4-20cfe0e42fc1}*SharedItemsImports = 13
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
